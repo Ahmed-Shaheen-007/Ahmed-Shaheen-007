@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hello World!, I'm Ahmed, a Egyptian programmer👋🏻:</h1>
+<h1 align="left">Hello World!, I'm Ahmed, an Egyptian programmer👋🏻:</h1>
 
 ###
 
